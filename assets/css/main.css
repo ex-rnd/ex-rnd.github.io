@@ -117,11 +117,11 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #bf4aca !important;
 		}
 
 	strong, b {
-		color: #777;
+		color: rgb(119, 119, 119);
 		font-weight: 700;
 	}
 
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: rgb(119, 119, 119);
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -185,7 +185,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px #f4f4f4;
+		border-bottom: solid 2px #855a5a;
 		margin: 2.25em 0;
 	}
 
@@ -201,7 +201,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: #555;
+		background: rgb(85, 85, 85);
 		border-radius: 5px;
 		color: #fff;
 		font-family: "Source Code Pro", monospace;
